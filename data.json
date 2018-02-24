@@ -1,0 +1,394 @@
+{
+  "monsters": [
+    {
+      "habitats": [
+        "Ancient Forest",
+        "Wildspire Waste"
+      ],
+      "weakness": [
+        "water",
+        "ice"
+      ],
+      "ailments": [
+        "fire"
+      ],
+      "specie": "Brute Wyvern",
+      "name": "Anjanath"
+    },
+    {
+      "habitats": [
+        "Wildspire Waste"
+      ],
+      "weakness": [
+        "water",
+        "fire",
+        "ice"
+      ],
+      "ailments": [
+        "water"
+      ],
+      "specie": "Brute Wyvern",
+      "name": "Barroth"
+    },
+    {
+      "habitats": [
+        "Ancient Forest",
+        "Wildspire Waste",
+        "Elder's Recess",
+        "Rotten Vale",
+        "Coral Highlands"
+      ],
+      "weakness": [
+        "thunder",
+        "ice",
+        "dragon"
+      ],
+      "ailments": [
+        "fire"
+      ],
+      "specie": "Flying Wyvern",
+      "name": "Bazelgeuse"
+    },
+    {
+      "habitats": [
+        "Wildspire Waste"
+      ],
+      "weakness": [
+        "ice"
+      ],
+      "ailments": [],
+      "specie": "Flying Wyvern",
+      "name": "Diablos"
+    },
+    {
+      "habitats": [
+        "Elder's Recess"
+      ],
+      "weakness": [
+        "thunder"
+      ],
+      "ailments": [
+        "blast"
+      ],
+      "specie": "Fanged Wyvern",
+      "name": "Dodogama"
+    },
+    {
+      "habitats": [
+        "Ancient Forest"
+      ],
+      "weakness": [
+        "water",
+        "fire",
+        "ice"
+      ],
+      "ailments": [
+        "paralysis"
+      ],
+      "specie": "Fanged Wyvern",
+      "name": "Great Girros"
+    },
+    {
+      "habitats": [
+        "Rotten Vale"
+      ],
+      "weakness": [
+        "fire"
+      ],
+      "ailments": [],
+      "specie": "Fanged Wyvern",
+      "name": "Great Jagras"
+    },
+    {
+      "habitats": [
+        "Wildspire Waste"
+      ],
+      "weakness": [
+        "water",
+        "thunder"
+      ],
+      "ailments": [
+        "water",
+        "mud"
+      ],
+      "specie": "Piscine Wyvern",
+      "name": "Jyuratodus"
+    },
+    {
+      "habitats": [
+        "Ancient Forest",
+        "Wildspire Waste"
+      ],
+      "weakness": [
+        "fire",
+        "water"
+      ],
+      "ailments": [
+        "thunder",
+        "paralysis"
+      ],
+      "specie": "Elder dragon",
+      "name": "Kirin"
+    },
+    {
+      "habitats": [
+        "Ancient Forest",
+        "Wildspire Waste"
+      ],
+      "weakness": [
+        "water"
+      ],
+      "ailments": [],
+      "specie": "Bird Wyvern",
+      "name": "Kulu-Ya-Ku"
+    },
+    {
+      "habitats": [
+        "Ancient Forest",
+        "Elder's Recess"
+      ],
+      "weakness": [
+        "dragon",
+        "thunder"
+      ],
+      "ailments": [
+        "dragon",
+        "ice"
+      ],
+      "specie": "Elder dragon",
+      "name": "Kushala Daora"
+    },
+    {
+      "habitats": [
+        "Elder's Recess"
+      ],
+      "weakness": [
+        "water"
+      ],
+      "ailments": [
+        "fire"
+      ],
+      "specie": "Piscine Wyvern",
+      "name": "Lavasioth"
+    },
+    {
+      "habitats": [
+        "Coral Highlands"
+      ],
+      "weakness": [
+        "thunder",
+        "fire"
+      ],
+      "ailments": [
+        "ice"
+      ],
+      "specie": "Flying Wyvern",
+      "name": "Legiana"
+    },
+    {
+      "habitats": [
+        "Great Ravine",
+        "Wildspire Waste",
+        "Elder's Recess"
+      ],
+      "weakness": [
+        "thunder",
+        "dragon"
+      ],
+      "ailments": [],
+      "specie": "Elder dragon",
+      "name": "Nergigante"
+    },
+    {
+      "habitats": [
+        "Coral Highlands",
+        "Rotten Vale"
+      ],
+      "weakness": [
+        "ice",
+        "thunder"
+      ],
+      "ailments": [
+        "bleed"
+      ],
+      "specie": "Fanged Wyvern",
+      "name": "Odogaron"
+    },
+    {
+      "habitats": [
+        "Coral Highlands"
+      ],
+      "weakness": [
+        "fire",
+        "thunder"
+      ],
+      "ailments": [],
+      "specie": "Flying Wyvern",
+      "name": "Paolumu"
+    },
+    {
+      "habitats": [
+        "Ancient Forest",
+        "Wildspire Waste"
+      ],
+      "weakness": [
+        "thunder"
+      ],
+      "ailments": [
+        "poison"
+      ],
+      "specie": "Bird Wyvern",
+      "name": "Pukei-Pukei"
+    },
+    {
+      "habitats": [
+        "Rotten Vale"
+      ],
+      "weakness": [
+        "ice",
+        "dragon"
+      ],
+      "ailments": [
+        "sleep"
+      ],
+      "specie": "Brute Wyvern",
+      "name": "Radobaan"
+    },
+    {
+      "habitats": [
+        "Ancient Forest"
+      ],
+      "weakness": [
+        "thunder",
+        "dragon",
+        "ice",
+        "water"
+      ],
+      "ailments": [
+        "fire",
+        "poison",
+        "stun"
+      ],
+      "specie": "Flying Wyvern",
+      "name": "Rathalos"
+    },
+    {
+      "habitats": [
+        "Wildspire Waste"
+      ],
+      "weakness": [
+        "thunder",
+        "dragon"
+      ],
+      "ailments": [
+        "fire",
+        "poison"
+      ],
+      "specie": "Flying Wyvern",
+      "name": "Rathian"
+    },
+    {
+      "habitats": [
+        "Elder's Recess"
+      ],
+      "weakness": [
+        "dragon",
+        "water"
+      ],
+      "ailments": [
+        "dragon",
+        "fire",
+        "stun"
+      ],
+      "specie": "Elder dragon",
+      "name": "Teostra"
+    },
+    {
+      "habitats": [
+        "Ancient Forest"
+      ],
+      "weakness": [
+        "water"
+      ],
+      "ailments": [
+        "thunder"
+      ],
+      "specie": "Fanged Wyvern",
+      "name": "Tobi-Kadachi"
+    },
+    {
+      "habitats": [
+        "Coral Highlands"
+      ],
+      "weakness": [
+        "thunder",
+        "ice"
+      ],
+      "ailments": [
+        "stun"
+      ],
+      "specie": "Bird Wyvern",
+      "name": "Tzitzi-Ya-Ku"
+    },
+    {
+      "habitats": [
+        "Elder's Recess"
+      ],
+      "weakness": [
+        "water",
+        "dragon"
+      ],
+      "ailments": [
+        "fire",
+        "sleep"
+      ],
+      "specie": "Brute Wyvern",
+      "name": "Uragaan"
+    },
+    {
+      "habitats": [
+        "Rotten Vale"
+      ],
+      "weakness": [
+        "fire",
+        "ice",
+        "dragon"
+      ],
+      "ailments": [],
+      "specie": "Elder dragon",
+      "name": "Vaal Hazak"
+    },
+    {
+      "habitats": [
+        "Confluence of Fates"
+      ],
+      "weakness": [
+        "fire",
+        "water",
+        "thunder",
+        "ice",
+        "dragon"
+      ],
+      "ailments": [
+        "dragon",
+        "fire"
+      ],
+      "specie": "Elder dragon",
+      "name": "Xeno'jiiva"
+    },
+    {
+      "habitats": [
+        "Great Ravine"
+      ],
+      "weakness": [
+        "water",
+        "dragon"
+      ],
+      "ailments": [
+        "fire"
+      ],
+      "specie": "Elder dragon",
+      "name": "Zorah Magdaros"
+    }
+  ]
+}
